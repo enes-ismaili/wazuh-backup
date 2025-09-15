@@ -24,7 +24,7 @@ This tool automates the manual steps described in the Wazuh Documentation https:
 1. Make the script executable:
    chmod +x wazuh-backup.sh
    
-2. Rund as root
+2. Run as root
   sudo ./wazuh-backup.sh
 
    Backups will be created in:
